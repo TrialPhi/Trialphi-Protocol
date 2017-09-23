@@ -1,0 +1,30 @@
+{
+  "name": "trialphi-protocol",
+  "version": "1.0.0",
+  "description": "TrialPhi Protocol",
+  "main": "docs/index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "engines": {
+    "node": "6.11.3"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanHendricks/Trialphi-Protocol.git"
+  },
+  "keywords": [
+    "Clinical",
+    "Trials"
+  ],
+  "author": "TrialPhi Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanHendricks/Trialphi-Protocol/issues"
+  },
+  "homepage": "https://github.com/RyanHendricks/Trialphi-Protocol/docs/index.html"
+}
