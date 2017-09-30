@@ -3,25 +3,30 @@
 Working Notes
 ------------
 
-Value Proposition = Potential to obtain a CPIM with the FDA.
 
-From page 2 of 6 [FDA CPIM INFO DOC](https://www.fda.gov/downloads/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDER/ManualofPoliciesProcedures/UCM422216.pdf) . 
+Value Proposition = Potential to obtain a CPIM with the FDA with the backup plan of COA tool pathway.[COA info](https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DrugDevelopmentToolsQualificationProgram/ucm284077.htm) . 
+
+From page 2 of 6 [FDA CPIM INFO DOC](https://www.fda.gov/downloads/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDER/ManualofPoliciesProcedures/UCM422216.pdf). 
 Potential outcomes of CPIMs include efforts leading to:
-• Regulatory submissions of clinical trials with new designs and methods
-• Proposals for the use of emerging technologies
-• Proposals for biomarker qualification or the use of biomarkers in regulatory submissions
-• Natural history studies
-• Public workshops and future collaboration of FDA with external parties
-• Development of new guidance 
-• Formation of new consortia and public-private partnerships to advance regulatory science efforts 
+* Regulatory submissions of clinical trials with new designs and methods
+* Proposals for the use of emerging technologies
+* Proposals for biomarker qualification or the use of biomarkers in regulatory submissions
+* Natural history studies
+* Public workshops and future collaboration of FDA with external parties
+* Development of new guidance 
+* Formation of new consortia and public-private partnerships to advance regulatory science efforts 
 
 
+MVP Functions: Tracking of De-identified Patient Data for 2 Key Metrics. 1 is a MAJOR pain point to all parties involved and the other is patient reported outcomes via Quality of Life Survey. 
+
+Concomitant Medications (Con-Meds) - Medications taken by the patient before during and after study going back sometimes 5 to 10 years.  
+* Data fields for interface: ID, Name, Description, Dosage, Frequency, Start Date, Stop Date, Notes.  
+* QOL Survey - ID, Date, Time, Note, Field 1, Field 2, ...., Field 5. -as simple as it seems . 
 
 
+Lots of refinement still to happen in the next 18 hours but wanted to get this pushed out there for digestion and any and all feedback.
 
-
-
-
+Tear it apart
 
 ********************
 The Clinical Trials industry is responsible the creation of therapeutic interventions and advancement of medical science.
